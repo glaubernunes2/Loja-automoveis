@@ -1,5 +1,13 @@
 /* Estilos aplicados ao body */
+main{
+    margin: auto;
+    width: 80vh;
+    background-color: grey;
+    border-radius: 15px;
+    
+}
 body {
+    background-color: #00000070;
     font-family: 'Segoe UI'; /* Define a fonte 'Segoe UI' para o texto no body */
 }
 
